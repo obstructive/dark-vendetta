@@ -9,26 +9,26 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMRARY": ["#292929", "#292929", "#292929"],
+    "HEADER_PRIMRARY": ["#141414", "#141414", "#141414"],
     "HEADER_SECONDARY": ["#b6b6b6", "#b6b6b6", "#b6b6b6"],
     "TEXT_NORMAL": ["#fbfbfb", "#fbfbfb", "#fbfbfb"],
     "TEXT_MUTED": ["##b6b6b6", "##b6b6b6", "##b6b6b6"],
     "INTERACTIVE_NORMAL": ["#c8c8c8", "#c8c8c8", "#c8c8c8"],
     "TEXT_LINK": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
-    "INTERACTIVE_HOVER": ["#0e0e0e", "#0e0e0e", "#0e0e0e"],
-    "INTERACTIVE_ACTIVE": ["#292929", "#292929", "#292929"],
+    "INTERACTIVE_HOVER": ["#dcddde", "#dcddde", "#dcddde"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
     "BACKGROUND_PRIMRARY": ["#141414", "#141414", "#141414"],
     "BACKGROUND_SECONDARY": ["#111", "#111", "#111"],
     "BACKGROUND_SECONDARY_ALT": ["#0e0e0e", "#0e0e0e", "#0e0e0e"],
     "BACKGROUND_TERTIARY": ["#0c0c0c", "#0c0c0c", "#0c0c0c"],
-    "BACKGROUND_ACCENT": ["#292929", "#292929", "#292929"],
+    "BACKGROUND_ACCENT": ["#141414", "#141414", "#141414"],
     "BACKGROUND_MOBILE_SECONDARY": ["#111", "#111", "#111"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff", "#ffffff", "#ffffff"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#ffffff", "#ffffff", "#ffffff"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0c0c0c", "#0c0c0c", "#0c0c0c"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#141414", "#141414", "#141414"],
     "CHANNEL_ICON": ["#b6b6b6", "#b6b6b6", "#b6b6b6"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
     "CHAT_BACKGROUND": ["#141414", "#141414", "#141414"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#292929", "#292929", "#292929"]
+    "SPOILER_HIDDEN_BACKGROUND": ["#141414", "#141414", "#141414"]
   },
   "rawColors": {
     "BRAND_260": "#007bff",
@@ -37,11 +37,11 @@
     "GREEN_360": "#6c757d",
     "RED_400": "#dc3545",
     "YELLOW_300": "#ffc107",
-    "PRIMARY_100": "#f8f9fa",
-    "PRIMARY_600": "#343a40",
-    "PRIMARY_630": "#343a40",
-    "PRIMARY_800": "#212529",
-    "PRIMARY_700": "#212529",
-    "PRIMARY_200": "#e9ecef"
+    "PRIMARY_100": "#fbfbfb",
+    "PRIMARY_600": "#141414",
+    "PRIMARY_630": "#141414",
+    "PRIMARY_800": "#141414",
+    "PRIMARY_700": "#141414",
+    "PRIMARY_200": "#FFFFFF"
   }
 }
