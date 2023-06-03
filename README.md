@@ -22,7 +22,6 @@ go to [this link](https://discord.com/channels/1015931589865246730/1114615735549
 ## todo
 
 - improve colors (use the same colors as the original theme)
-- fix the invite "join" button not being colored at all
 
 ## credits
 
