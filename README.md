@@ -19,6 +19,10 @@ go to [this link](soon) and press the url, then select the theme
 
 ![screenshot](https://void.cat/d/BBcy1DNkdac4yjk9Az2Q5W)
 
+## todo:
+- improve colors (use the same colors as the original theme)
+- fix the invite "join" button not being colored at all
+
 ## credits
 
 - [localip](https://github.com/localip) for the original theme
