@@ -31,17 +31,17 @@
     "SPOILER_HIDDEN_BACKGROUND": ["#292929", "#292929", "#292929"]
   },
   "rawColors": {
-    "BRAND_260": "#692a9c",
-    "BRAND_500": "#692a9c",
-    "BRAND_560": "#9d40e9",
-    "GREEN_360": "#9d40e9",
-    "RED_400": "#9d40e9",
-    "YELLOW_300": "#9b08ab",
-    "PRIMARY_100": "#ffffff",
-    "PRIMARY_600": "#141414",
-    "PRIMARY_630": "#141414",
-    "PRIMARY_800": "#141414",
-    "PRIMARY_700": "#141414",
-    "PRIMARY_200": "#FFFFFF"
+    "BRAND_260": "#007bff",
+    "BRAND_500": "#007bff",
+    "BRAND_560": "#6c757d",
+    "GREEN_360": "#6c757d",
+    "RED_400": "#dc3545",
+    "YELLOW_300": "#ffc107",
+    "PRIMARY_100": "#f8f9fa",
+    "PRIMARY_600": "#343a40",
+    "PRIMARY_630": "#343a40",
+    "PRIMARY_800": "#212529",
+    "PRIMARY_700": "#212529",
+    "PRIMARY_200": "#e9ecef"
   }
 }
