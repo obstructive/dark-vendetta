@@ -6,7 +6,7 @@
 
 ### easy way
 
-go to [this link](soon) and press the url, then select the theme
+go to [this link](https://discord.com/channels/1015931589865246730/1114615735549952070/1114615735549952070) and press the url, then select the theme
 
 ### "hard" way
 
