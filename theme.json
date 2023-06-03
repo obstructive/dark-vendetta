@@ -1,0 +1,47 @@
+{
+  "name": "Dark-Vendetta",
+  "description": "A *improved* dark theme for Discord",
+  "authors": [
+    {
+      "name": "ignacio",
+      "id": "244938419925549057"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMRARY": ["#292929", "#292929", "#292929"],
+    "HEADER_SECONDARY": ["#b6b6b6", "#b6b6b6", "#b6b6b6"],
+    "TEXT_NORMAL": ["#fbfbfb", "#fbfbfb", "#fbfbfb"],
+    "TEXT_MUTED": ["##b6b6b6", "##b6b6b6", "##b6b6b6"],
+    "INTERACTIVE_NORMAL": ["#c8c8c8", "#c8c8c8", "#c8c8c8"],
+    "TEXT_LINK": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+    "INTERACTIVE_HOVER": ["#dcddde", "#dcddde", "#dcddde"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_PRIMRARY": ["#141414", "#141414", "#141414"],
+    "BACKGROUND_SECONDARY": ["#111", "#111", "#111"],
+    "BACKGROUND_SECONDARY_ALT": ["#0e0e0e", "#0e0e0e", "#0e0e0e"],
+    "BACKGROUND_TERTIARY": ["#0c0c0c", "#0c0c0c", "#0c0c0c"],
+    "BACKGROUND_ACCENT": ["#292929", "#292929", "#292929"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0B0F20", "#0B0F20", "#0B0F20"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0b0f20", "#0b0f20", "#0b0f20"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#4129db", "#4129db", "#4129db"],
+    "CHANNEL_ICON": ["#9e08aa", "#9e08aa", "#9e08aa"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+    "CHAT_BACKGROUND": ["#061a2c", "#061a2c", "#061a2c"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#0b3052", "#0b3052", "#0b3052"]
+  },
+  "rawColors": {
+    "BRAND_260": "#692a9c",
+    "BRAND_500": "#692a9c",
+    "BRAND_560": "#9d40e9",
+    "GREEN_360": "#9d40e9",
+    "RED_400": "#9d40e9",
+    "YELLOW_300": "#9b08ab",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_600": "#061a2c",
+    "PRIMARY_630": "#061a2c",
+    "PRIMARY_800": "#061a2c",
+    "PRIMARY_700": "#061a2c",
+    "PRIMARY_200": "#FFFFFF"
+  }
+}
