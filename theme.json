@@ -12,7 +12,7 @@
     "HEADER_PRIMRARY": ["#141414"],
     "HEADER_SECONDARY": ["#B6B6B6"],
     "TEXT_NORMAL": ["#DCDDDE"],
-    "TEXT_MUTED": ["#B6B6B6"],
+    "TEXT_MUTED": ["#6C757D"],
     "INTERACTIVE_NORMAL": ["#C8C8C8"],
     "TEXT_LINK": ["#007BFF"],
     "INTERACTIVE_HOVER": ["#DCDDDE"],
@@ -41,6 +41,6 @@
     "PRIMARY_630": "#141414",
     "PRIMARY_800": "#141414",
     "PRIMARY_700": "#141414",
-    "PRIMARY_200": "#141414"
+    "PRIMARY_200": "#DCDDDE"
   }
 }
